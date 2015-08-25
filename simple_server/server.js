@@ -11,7 +11,7 @@ var mimeTypes = {
 	"png": "image/png",
 	"js": "text/javascript",
 	"css": "text/css"
-}
+	},
 
 //create server
 http.createServer(function(req,res){
